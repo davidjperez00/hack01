@@ -6,5 +6,8 @@ printf ("David Perez\n");
 
 printf ("Electrical Engineering \n");
 
+printf ("Antonio Sanchez\n");
+printf ("Electrical Engineering\n");
+
 return 0;
 }
