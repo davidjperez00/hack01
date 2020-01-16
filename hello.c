@@ -2,7 +2,9 @@
 
 int main(void) {
 
-printf ("David Perez\n Electrical engineering \n");
+printf ("David Perez\n");
+
+printf ("Electrical Engineering \n");
 
 return 0;
 }
